@@ -1,0 +1,6 @@
+module Pods_volopayTask_volopayTaskTests {
+  umbrella header "Pods-volopayTask-volopayTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

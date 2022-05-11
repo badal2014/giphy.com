@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1817170634/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/1817170634/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/volopayTask.iml" filepath="$PROJECT_DIR$/.idea/modules/volopayTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/volopayTask.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/volopayTask.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1693167031/volopayTask.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-1693167031/volopayTask.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1757084448/volopayTask.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1757084448/volopayTask.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-243663617/volopayTask.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-243663617/volopayTask.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

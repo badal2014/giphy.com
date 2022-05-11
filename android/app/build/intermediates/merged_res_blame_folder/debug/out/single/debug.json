@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/badal/work/worddddd/task/volopayTask/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_download.png.flat",
+        "source": "/Users/badal/work/worddddd/task/volopayTask/android/app/src/main/res/mipmap-xxhdpi/download.png"
+    },
+    {
+        "merged": "/Users/badal/work/worddddd/task/volopayTask/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_download.png.flat",
+        "source": "/Users/badal/work/worddddd/task/volopayTask/android/app/src/main/res/mipmap-mdpi/download.png"
+    },
+    {
+        "merged": "/Users/badal/work/worddddd/task/volopayTask/android/app/build/intermediates/merged_res/debug/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/badal/work/worddddd/task/volopayTask/android/app/src/main/res/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/badal/work/worddddd/task/volopayTask/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_download.png.flat",
+        "source": "/Users/badal/work/worddddd/task/volopayTask/android/app/src/main/res/mipmap-hdpi/download.png"
+    },
+    {
+        "merged": "/Users/badal/work/worddddd/task/volopayTask/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_download.png.flat",
+        "source": "/Users/badal/work/worddddd/task/volopayTask/android/app/src/main/res/mipmap-xxxhdpi/download.png"
+    },
+    {
+        "merged": "/Users/badal/work/worddddd/task/volopayTask/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_download.png.flat",
+        "source": "/Users/badal/work/worddddd/task/volopayTask/android/app/src/main/res/mipmap-xhdpi/download.png"
+    }
+]
